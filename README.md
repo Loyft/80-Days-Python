@@ -2,4 +2,5 @@
 
 Day 1 - Bandname Generator\
 Day 2 - Tip Calculator\
-Day 3 - Treasure Island
+Day 3 - Treasure Island\
+Day 4 - Rock Paper Scissor\
