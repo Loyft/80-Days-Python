@@ -11,4 +11,5 @@ Day 8 - Caesar Cipher\
 Day 9 - Secret Auction\
 Day 10 - Calculator\
 Day 11 - BlackJack\
-Day 12 - Guess the Number
+Day 12 - Guess the Number\
+Day 13 - Debugging
