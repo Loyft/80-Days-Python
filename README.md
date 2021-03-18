@@ -1,5 +1,6 @@
 # 100 Days of Python
 
+**Beginner**\
 Day 1 - Bandname Generator\
 Day 2 - Tip Calculator\
 Day 3 - Treasure Island\
@@ -13,4 +14,7 @@ Day 10 - Calculator\
 Day 11 - BlackJack\
 Day 12 - Guess the Number\
 Day 13 - Debugging\
-Day 14 - Higher Lower
+Day 14 - Higher Lower\
+\
+**Intermediate**\
+Day 15 - Coffee Machine
