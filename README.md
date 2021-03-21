@@ -19,4 +19,5 @@ Day 14 - Higher Lower\
 **Intermediate**\
 Day 15 - Coffee Machine\
 Day 16 - Coffee Machine OOP\
-Day 17 - Quiz
+Day 17 - Quiz\
+Day 18 - Painting
