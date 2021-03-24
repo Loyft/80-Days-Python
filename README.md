@@ -22,4 +22,5 @@ Day 16 - Coffee Machine OOP\
 Day 17 - Quiz\
 Day 18 - Painting\
 Day 19 - Tempo\
-Day 20 - Snake Game I
+Day 20 - Snake Game I\
+Day 21 - Snake Game II
