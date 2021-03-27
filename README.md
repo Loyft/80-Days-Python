@@ -25,4 +25,5 @@ Day 19 - Tempo\
 Day 20 - Snake Game I\
 Day 21 - Snake Game II\
 Day 22 - Pong\
-Day 23 - Cross Road
+Day 23 - Cross Road\
+Day 24 - Mailing List
