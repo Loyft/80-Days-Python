@@ -35,4 +35,5 @@ Day 29 - Password Manager I\
 Day 30 - Password Manager II\
 Day 31 - FlashCards\
 Day 32 - Mailbox\
-Day 33 - ISS
+Day 33 - ISS\
+Day 34 - Quiz
