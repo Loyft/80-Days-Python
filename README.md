@@ -37,4 +37,5 @@ Day 31 - FlashCards\
 Day 32 - Mailbox\
 Day 33 - ISS\
 Day 34 - Quiz\
-Day 35 - Weather App
+Day 35 - Weather App\
+Day 36 - Stocks
