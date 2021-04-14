@@ -45,4 +45,5 @@ Day 39 - Flight Tracker I\
 Day 40 - Flight Tracker II\
 \
 **Web Foundation**\
-Day 41 - HTML
+Day 41 - HTML\
+Day 42 - CSS
