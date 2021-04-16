@@ -47,4 +47,5 @@ Day 40 - Flight Tracker II\
 **Web Foundation**\
 Day 41 - HTML\
 Day 42 - CSS\
-Day 43 - Dice
+Day 43 - Dice\
+Day 44 - Drum Kit
