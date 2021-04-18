@@ -49,4 +49,5 @@ Day 41 - HTML\
 Day 42 - CSS\
 Day 43 - Dice\
 Day 44 - Drum Kit\
-Day 45 - Soup
+Day 45 - Soup\
+Day 46 - Spotify
