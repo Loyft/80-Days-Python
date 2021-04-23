@@ -54,4 +54,5 @@ Day 46 - Spotify\
 Day 47 - Amazon\
 Day 48 - Selenium\
 Day 49 - LinkedIn\
-Day 50 - Tinder
+Day 50 - Tinder\
+Day 51 - Twitter
