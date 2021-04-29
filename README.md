@@ -60,4 +60,5 @@ Day 52 - Instagram\
 Day 53 - Rental\
 Day 54 - Flask\
 Day 55 - Flask Higher Lower\
-Day 56 - Flask Template
+Day 56 - Flask Template\
+Day 57 - Flask Blog
