@@ -65,4 +65,7 @@ Day 57 - Flask Blog\
 Day 58 - Tindog\
 Day 59 - Python Blog\
 Day 60 - Contact Form\
-Day 61 - WTF Contact Form
+\
+**Advanced**\
+Day 61 - WTF Contact Form\
+Day 62 - Coffee
