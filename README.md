@@ -72,4 +72,5 @@ Day 62 - Coffee\
 Day 63 - Bookshelf\
 Day 64 - Movies\
 Day 65 - Simon\
-Day 66 - Cafe II
+Day 66 - Cafe II\
+Day 67 - Restful
