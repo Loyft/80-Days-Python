@@ -74,4 +74,5 @@ Day 64 - Movies\
 Day 65 - Simon\
 Day 66 - Cafe II\
 Day 67 - Restful\
-Day 68 - Flask Authentication
+Day 68 - Flask Authentication\
+Day 69 - Flask login
