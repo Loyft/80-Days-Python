@@ -76,4 +76,5 @@ Day 66 - Cafe II\
 Day 67 - Restful\
 Day 68 - Flask Authentication\
 Day 69 - Flask login\
-Day 70 - Flask login II
+Day 70 - Flask login II\
+Day 71 - Data Exploration in Pandas
