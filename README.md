@@ -80,4 +80,5 @@ Day 70 - Flask login II\
 Day 71 - Data Exploration in Pandas\
 Day 72 - Data visualization\
 Day 73 - Lego\
-Day 74 - Google
+Day 74 - Google\
+Day 75 - Google PlayStore
