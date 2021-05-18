@@ -81,4 +81,5 @@ Day 71 - Data Exploration in Pandas\
 Day 72 - Data visualization\
 Day 73 - Lego\
 Day 74 - Google\
-Day 75 - Google PlayStore
+Day 75 - Google PlayStore\
+Day 76 - Computation with NumPy
