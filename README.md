@@ -84,4 +84,5 @@ Day 74 - Google\
 Day 75 - Google PlayStore\
 Day 76 - Computation with NumPy\
 Day 77 - Seaborn\
-Day 78 - Nobel Prize
+Day 78 - Nobel Prize\
+Day 79 - Semmelweis Analysis
